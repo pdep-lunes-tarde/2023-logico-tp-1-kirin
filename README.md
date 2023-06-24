@@ -5,16 +5,16 @@
 - [ ] Aceptar el assignment y clonar el repositorio con el ejercicio
 - [ ] Reemplazar nombre, apellido y legajo en este archivo
 
-- Grupo:
+- Grupo: Kirin
 
-- Nombre y apellido:
-- Legajo:
+- Nombre y apellido: Kenzo Grosvald
+- Legajo: 168.953-8 
 
-- Nombre y apellido:
-- Legajo:
+- Nombre y apellido: Zoe Yusti
+- Legajo: 156.494-8 
 
-- Nombre y apellido:
-- Legajo:
+- Nombre y apellido: Francisco Ou Su
+- Legajo: 164.398-8 
 
 ## Pre-requisitos
 
