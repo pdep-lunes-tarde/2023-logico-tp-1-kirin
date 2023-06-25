@@ -72,8 +72,7 @@ odiaA(agatha, Persona) :-
 %   Charles odia a todas las personas de la mansión que no son odiadas por la tía Agatha.
 odiaA(charles, Persona) :-
     viveEnLaMansion(Persona),
-    not(odiaA(agatha, Persona)),
-    Persona \= charles.
+    not(odiaA(agatha, Persona)).
 
 %   Quien no es odiado por el carnicero y vive en la mansión, es más rico que tía Agatha.
 esMasRicoQue(Persona, agatha) :-
